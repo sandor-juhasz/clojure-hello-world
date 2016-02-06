@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/sandor-juhasz/clojure-hello-world.svg?branch=master)](https://travis-ci.org/sandor-juhasz/clojure-hello-world)
+[![Coverage Status](https://coveralls.io/repos/github/sandor-juhasz/clojure-hello-world/badge.svg?branch=master)](https://coveralls.io/github/sandor-juhasz/clojure-hello-world?branch=master)
 
 # helloworld
 
